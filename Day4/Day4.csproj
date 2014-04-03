@@ -69,6 +69,7 @@
     <Content Include="arrayAdditionaI.js" />
     <Content Include="index.html" />
     <Content Include="JavaScript1.js" />
+    <Content Include="letterCountI.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

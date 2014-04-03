@@ -49,4 +49,4 @@ var arrAddition = function (arr) {
     }
     alert(result);
 }
-arrAddition([5, 7, 16, 1, 2])
+//arrAddition([5, 7, 16, 1, 2])
