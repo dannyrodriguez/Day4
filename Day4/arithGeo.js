@@ -39,4 +39,4 @@
     alert("Your array is: " + result);
 }
 
-arithGeo([2, 6, 18, 54, 8]);
+//arithGeo([2, 6, 18, 54, 8]);
