@@ -31,7 +31,13 @@
             largestIndex = i;
         }
     }
+    if (words[largestIndex] === 1) {
+        return -1;
+    }
+    else {
+        return (words[largestIndex]);
+    }
     alert("The most duplicate letters are in the word " + words[largestIndex]);
 }
 
-letterCountI("qqqqqqqqqqq one tttt two");
+letterCountI("aa bbb cccc");
