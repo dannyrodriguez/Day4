@@ -40,4 +40,4 @@
     alert("The most duplicate letters are in the word " + words[largestIndex]);
 }
 
-letterCountI("aa bbb cccc");
+//letterCountI("aa bbb cccc");

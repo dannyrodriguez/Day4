@@ -70,6 +70,7 @@
     <Content Include="index.html" />
     <Content Include="JavaScript1.js" />
     <Content Include="letterCountI.js" />
+    <Content Include="secondGreatLow.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
